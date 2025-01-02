@@ -1,2 +1,2 @@
 # delta-demo
-this is our first repo file 
+this is our first repo.
